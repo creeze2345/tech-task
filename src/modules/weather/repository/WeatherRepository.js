@@ -21,6 +21,7 @@ export default class WeatherRepository {
 
         const weather: WeatherInterface = this._weatherFactory.createInstance();
         // please populate the response back from the api into the weather model
+        weather.setTemperature(response.data.currently.temperature)
         return weather;
      }
 }
