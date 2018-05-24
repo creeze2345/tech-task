@@ -2,25 +2,28 @@
 
 }
 
+/*This is for the location name*/
 .weather_Location_name{
 
     font-family : "arial";
     color: darkgrey;
 
 }
-
+/*This is for the day just below the location name */
 .day{
 
     font-family : "arial";
     color : darkgrey;
 }
-
+/*This is for the weather status name such as Cloudy, Rainy, etc */
 .weather_status_name{
     font-family : "arial";
     color : darkgrey;
 }
-
+/*This is for the weather status icon such as Cloudy.png, Rainy.png, etc */
 .weather_status_icon{
-
+    float:  left;
+    height: 64px;
+    width:  64px;
 }
 
