@@ -19,8 +19,8 @@
     color       : darkgrey;
     float       : left;
 }
-/*This is for the weather status name such as Cloudy, Rainy, etc */
-.weather_status_name{
+/*This is for the weather forecast such as Cloudy, Rainy, etc */
+.weather_forecast{
     font-family : "arial";
     font-size   : 10;
     color       : darkgrey;
@@ -33,3 +33,4 @@
     width       :  64px;
 }
 
+.
