@@ -11,7 +11,6 @@
 #precipitation_winds{
     font-family : "arial";
     color       : darkgrey;
-    float       : left;
 }
 /*This is for the location name*/
 .weather_location_name{
