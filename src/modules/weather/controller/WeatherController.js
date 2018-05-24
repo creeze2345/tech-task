@@ -24,6 +24,8 @@ export default class WeatherController {
 */
            /* const weather = weatherRepository.getWeatherByGeoLocation(location);*/
 
+          /* WeatherController weathercontrol = WeatherController(weatherRepository, location)*/
+
             res.render('weather/views/index.hbs', {
                 viewModel: {
                     variable1: 45,

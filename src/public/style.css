@@ -4,17 +4,23 @@
 
 .weather_Location_name{
 
+    font-family : "arial";
+    color: darkgrey;
+
 }
 
 .day{
 
+    font-family : "arial";
+    color : darkgrey;
 }
 
-.weather_status{
-
+.weather_status_name{
+    font-family : "arial";
+    color : darkgrey;
 }
 
-.weather_icon{
+.weather_status_icon{
 
 }
 
